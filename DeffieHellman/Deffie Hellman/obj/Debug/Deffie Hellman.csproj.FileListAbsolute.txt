@@ -1,0 +1,7 @@
+C:\Users\obzaj\source\repos\DeffieHellman\Deffie Hellman\obj\Debug\Deffie Hellman.csprojResolveAssemblyReference.cache
+C:\Users\obzaj\source\repos\DeffieHellman\Deffie Hellman\obj\Debug\Deffie Hellman.csproj.CoreCompileInputs.cache
+C:\Users\obzaj\source\repos\DeffieHellman\Deffie Hellman\bin\Debug\Deffie Hellman.exe.config
+C:\Users\obzaj\source\repos\DeffieHellman\Deffie Hellman\bin\Debug\Deffie Hellman.exe
+C:\Users\obzaj\source\repos\DeffieHellman\Deffie Hellman\bin\Debug\Deffie Hellman.pdb
+C:\Users\obzaj\source\repos\DeffieHellman\Deffie Hellman\obj\Debug\Deffie Hellman.exe
+C:\Users\obzaj\source\repos\DeffieHellman\Deffie Hellman\obj\Debug\Deffie Hellman.pdb
